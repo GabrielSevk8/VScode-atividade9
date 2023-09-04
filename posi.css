@@ -1,0 +1,58 @@
+
+/*
+Fixed
+.box1{
+    background-color: #d90429;
+    width: 500px;
+    position: relative;
+    left: 700px;
+    top: 50px
+}
+.box2{
+    background-color: rgb(94, 92, 92);
+    color: white;
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    left: 300px;
+    bottom: 800px;
+}
+*/
+
+/*
+Absolute
+.box1{
+    background-color: #d90429;
+    width: 500px;
+    position: relative;
+    left: 700px;
+    top: 50px
+}
+.box2{
+    background-color: rgb(94, 92, 92);
+    color: white;
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    left: 500px;
+    bottom:600px;
+}
+*/
+
+/*Relative*/
+.box1{
+    background-color: #d90429;
+    width: 700px;
+    height: 600px;
+    position: relative;
+    left: 700px;
+}
+.box2{
+    background-color: rgb(94, 92, 92);
+    color: white;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 800px;
+    bottom: 500px;
+}
